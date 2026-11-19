@@ -11,8 +11,8 @@
     "summarization": 1188
   },
   "context_count": 4467,
-  "length_unit": "whitespace-separated words",
   "context_fraction": 0.2975817733661981,
+  "length_unit": "whitespace-separated words",
   "instruction_words": {
     "mean": 12.378655652521484,
     "median": 10,
