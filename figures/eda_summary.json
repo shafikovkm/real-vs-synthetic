@@ -1,0 +1,26 @@
+{
+  "n": 15011,
+  "categories": {
+    "brainstorming": 1766,
+    "classification": 2136,
+    "closed_qa": 1773,
+    "creative_writing": 709,
+    "general_qa": 2191,
+    "information_extraction": 1506,
+    "open_qa": 3742,
+    "summarization": 1188
+  },
+  "context_count": 4467,
+  "length_unit": "whitespace-separated words",
+  "context_fraction": 0.2975817733661981,
+  "instruction_words": {
+    "mean": 12.378655652521484,
+    "median": 10,
+    "max": 841
+  },
+  "response_words": {
+    "mean": 60.115515288788224,
+    "median": 31,
+    "max": 4274
+  }
+}

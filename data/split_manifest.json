@@ -1,0 +1,21 @@
+{
+  "input": "data/databricks-dolly-15k.jsonl",
+  "input_sha256": "2df9083338b4abd6bceb5635764dab5d833b393b55759dffb0959b6fcbf794ec",
+  "seed": 42,
+  "train_seed": 43,
+  "limit": null,
+  "source_rows": 15011,
+  "unused_rows": 11,
+  "counts": {
+    "test": 2000,
+    "val": 1000,
+    "train_pool": 12000,
+    "train_real": 2000
+  },
+  "sha256": {
+    "train_pool.jsonl": "22fe34b4eef1e3413e8746bb1ea3ca4528e9550b428a312161fb2c900c89de3a",
+    "val.jsonl": "000e4f6e662b3923e0cc3113e58481f9526b9e2d00f1f4094dbbcae142ddf19c",
+    "test.jsonl": "818a59f7b17025181f648daeda64e62aaa48255c49d434e784e3a250cecd6ae0",
+    "train_real.jsonl": "1daedefd51054f369300b8fa4584bf3c0179fcd826df26242bf1fe6cf06e090b"
+  }
+}
